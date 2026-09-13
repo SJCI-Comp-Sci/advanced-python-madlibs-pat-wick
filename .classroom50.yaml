@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "advanced-python"
+assignment: "madlibs"
+secret: "vau5esmo"
+owner:
+  username: "pat-wick"
+  id: 110044297
+  accepted_at: "2026-09-13T11:24:04Z"
+source:
+  owner: "SJCI-Comp-Sci"
+  owner_id: 143094257
+  repo: "advpython-madlibs"
+  branch: "main"
